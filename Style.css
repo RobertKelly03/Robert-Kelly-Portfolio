@@ -1,13 +1,22 @@
-body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(101, 179, 238);
+}
+h1 {
+  color: rgb(68, 12, 117);
+  margin: 10 px;
+}
+header {
+  color: rgb(79, 4, 116);
+}
+h2 {
+  color: rgb(127, 19, 228);
+  font-style: italic;
+}
+p {
+  color: rgb(79, 24, 79);
+  font-size: 20px;
+  border: 3px solid blue;
+}
