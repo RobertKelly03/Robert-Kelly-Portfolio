@@ -199,3 +199,16 @@ button:hover, a:hover {
   height: auto;
   border-radius: 5px;
 }
+
+.contact-card {
+  background-color: aquamarine;
+  padding: 10px;
+}
+
+.contact-card img {
+  border-radius: 5px;
+}
+
+.contact-card button {
+  font-size: 15px;
+}
