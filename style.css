@@ -76,9 +76,10 @@ body {
 /* Style the counter cards */
 .card  {
   box-shadow: 0 4px 8px 0 black; /* this adds the "card" effect */
-  padding: 16px;
+  padding: 10px;
   text-align: center;
   background-color: #f1f1f1;
+  border-radius: 5px;
 }
 .card:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -93,9 +94,6 @@ body {
   }
 }
 
-.card img {
-  padding: 10px;
-}
 
 .About-me-Title {
   background-color: aquamarine;
@@ -194,4 +192,10 @@ button:hover, a:hover {
   margin-left: auto;
   margin-right: auto;
   border-radius: 10px;
+}
+
+#cardimg {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
 }
