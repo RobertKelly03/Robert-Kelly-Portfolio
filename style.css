@@ -1,4 +1,6 @@
-
+#main {
+  background-color: white;
+}
 
 
 .header {
@@ -184,3 +186,12 @@ button:hover, a:hover {
 }
 
 
+.My-Work-Title {
+  background-color: aquamarine;
+  text-align: center;
+  padding: 10px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
